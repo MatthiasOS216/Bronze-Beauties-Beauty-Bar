@@ -1,0 +1,29 @@
+source,destination,status,action,note
+/home,/,301,REDIRECT,duplicate of root
+/nails-1,/nails,301,CONSOLIDATE,
+/facials-waxing,/facials,301,CHANGE URL,
+/samantha-camel,/artists/samantha-camel,301,CHANGE URL,
+/jazzmine,/artists/jazzmine-villegas,301,CHANGE URL,
+/miranda-rivera,/artists/miranda-rivera,301,CHANGE URL,VERIFY B1 - else /artists
+/beauticians,/artists,301,CHANGE URL,
+/services-1,/services,301,CHANGE URL,
+/rules,/policies,301,CONSOLIDATE,
+/nail-rules,/policies,301,CONSOLIDATE,
+/lash-rules,/policies,301,CONSOLIDATE,
+/new-location,/visit,301,CHANGE URL,
+/tooth-gems,/services,301,REMOVE,VERIFY C1
+/body-contouring,/services,301,REMOVE,VERIFY C1
+/noninvasive-brazilian-butt-lifts,/services,301,REMOVE,legal risk
+/post-op-care,/services,301,REMOVE,empty
+/cart,/,301,REMOVE,
+/enlightment,/journal,301,CHANGE URL,
+/enlightment/get-your-best-glow-up-at-bronze-beauties-the-best-spray-tanning-in-avon-lake-ohio-,/visit,301,CONSOLIDATE,Avon Lake legacy
+/enlightment/30-tips-to-keep-your-spray-tan-looking-fresh-and-flawless,/organic-spray-tanning/prep-and-aftercare,301,CONSOLIDATE,
+/enlightment/spraytanattiretips,/organic-spray-tanning/prep-and-aftercare,301,CONSOLIDATE,
+/enlightment/exfoliating,/organic-spray-tanning/prep-and-aftercare,301,CONSOLIDATE,
+/enlightment/spraytansvstanningbeds,/journal/spray-tan-vs-tanning-beds,301,CHANGE URL,
+/enlightment/laserlipo,/services,301,REMOVE,or 410
+/enlightment/bronzebeautyfullyloaded,/services,301,REMOVE,
+/enlightment/category/:slug*,/journal,301,REMOVE,
+/enlightment/tag/:slug*,/journal,301,REMOVE,
+/enlightment/:slug*,/journal,301,CATCH-ALL,

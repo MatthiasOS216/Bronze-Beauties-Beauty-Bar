@@ -1,0 +1,188 @@
+{
+ "jennifer-wiseman-glossgenius": {
+  "title": "Nail Salon Services in Elyria, OH | Nailedit.byjenny",
+  "services": [
+   {
+    "name": "Short FULLSET - (solid Color)",
+    "price": "55.00"
+   },
+   {
+    "name": "Short FULLSET - (minimal Design)",
+    "price": "65.00"
+   },
+   {
+    "name": "Short FULLSET - (full Design)",
+    "price": "70.00"
+   },
+   {
+    "name": "Medium FULLSET - (solid Color)",
+    "price": "60.00"
+   },
+   {
+    "name": "Medium FULLSET - (minimal Design)",
+    "price": "65.00"
+   },
+   {
+    "name": "Medium FULLSET- (full Design)",
+    "price": "75.00"
+   },
+   {
+    "name": "Long FULLSET - (Solid Color)",
+    "price": "70.00"
+   },
+   {
+    "name": "Long FULLSET - (minimal Design)",
+    "price": "75.00"
+   },
+   {
+    "name": "Long FULLSET - (Full Design)",
+    "price": "80.00"
+   },
+   {
+    "name": "FILL- (Solid Color, Minimal Design)",
+    "price": "50.00"
+   },
+   {
+    "name": "FILL- (full Design)",
+    "price": "60.00"
+   },
+   {
+    "name": "Gel X- FULLSET",
+    "price": "70.00"
+   },
+   {
+    "name": "Builder Gel Manicure",
+    "price": "40.00"
+   },
+   {
+    "name": "GEL MANICURE",
+    "price": "30.00"
+   },
+   {
+    "name": "GEL PEDICURE",
+    "price": "50.00"
+   },
+   {
+    "name": "JELLY MASK PEDICURE",
+    "price": "60.00"
+   },
+   {
+    "name": "ACRYLIC TOES",
+    "price": "50.00"
+   },
+   {
+    "name": "SOAK OFF",
+    "price": "20.00"
+   },
+   {
+    "name": "Toe Polish Change",
+    "price": "20.00"
+   },
+   {
+    "name": "Men\\u2019s manicure",
+    "price": "30.00"
+   }
+  ]
+ },
+ "jazzmine-villegas-glossgenius": {
+  "title": "Bare Beauti Avenue | Esthetician in Elyria, OH",
+  "services": [
+   {
+    "name": "Cluster Lashes",
+    "price": "50.00"
+   },
+   {
+    "name": "Brazillian V (New client)",
+    "price": "45.00"
+   },
+   {
+    "name": "Brazillian Wax (V)",
+    "price": "58.00"
+   },
+   {
+    "name": "Bikini Full (V)",
+    "price": "50.00"
+   },
+   {
+    "name": "Binki Line",
+    "price": "43.00"
+   },
+   {
+    "name": "EyeBrows",
+    "price": "20.00"
+   },
+   {
+    "name": "Full Face",
+    "price": "52.00"
+   },
+   {
+    "name": "Upper Lip",
+    "price": "8.00"
+   },
+   {
+    "name": "Chin Wax",
+    "price": "10.00"
+   },
+   {
+    "name": "Chin AND Neck Wax",
+    "price": "15.00"
+   },
+   {
+    "name": "Cheek",
+    "price": "10.00"
+   },
+   {
+    "name": "Under Arms",
+    "price": "22.00"
+   },
+   {
+    "name": "Stomach",
+    "price": "35.00"
+   },
+   {
+    "name": "Stomach Stip",
+    "price": "12.00"
+   },
+   {
+    "name": "Chest (Full)",
+    "price": "35.00"
+   },
+   {
+    "name": "Back (Full)",
+    "price": "65.00"
+   },
+   {
+    "name": "Back (Upper)",
+    "price": "35.00"
+   },
+   {
+    "name": "Back (Lower)",
+    "price": "30.00"
+   },
+   {
+    "name": "Full Butt (V)",
+    "price": "28.00"
+   },
+   {
+    "name": "Butt Strip",
+    "price": "20.00"
+   },
+   {
+    "name": "Inner Thigh",
+    "price": "20.00"
+   },
+   {
+    "name": "Full leg",
+    "price": "85.00"
+   },
+   {
+    "name": "Upper legs",
+    "price": "50.00"
+   },
+   {
+    "name": "Lower Legs",
+    "price": "40.00"
+   }
+  ]
+ }
+}

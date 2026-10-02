@@ -1,0 +1,1406 @@
+{
+ "id": "qznx4p3eq8ojug",
+ "business": {
+  "id": "4287gkkpzcd2gc",
+  "uid": "GKQDPF",
+  "allow_user_cancel": true,
+  "cancellation_policy": "If you cancel last minute,  within 48 hours of your appointment, you WILL be charged the cancellation fee. \nIf you no call/no show for your appointment, you will be charged 100% of the service. Our team works hard, and their time is valuable. Please be respectful. \nIf you no call/no show for your appointment twice, you will be BLOCKED from booking future services. \nOur cancellation fees range, depending on the service- so please be aware.\nWe reserve the right to waive or implement our policy based on special circumstances, and our discretion. \n\nALL SALES ARE FINAL *",
+  "display_cancellation_policy": true,
+  "display_text_marketing_opt_in": false,
+  "display_email_marketing_opt_in": false,
+  "no_show_protection_enabled": true,
+  "no_show_cutoff_time": 172800,
+  "no_show_flat_fee": 4000,
+  "multiple_service_booking_enabled": true,
+  "multiple_staff_booking_enabled": true,
+  "buyer_prepayment_mode": "off",
+  "buyer_prepayment_tipping_enabled": false,
+  "future_booking_limit_time": 31536000,
+  "any_staff_booking_enabled": true,
+  "skip_obs_staff_selection": false,
+  "index_obs": true,
+  "cutoff_time": 172800,
+  "merchant_token": "ARFDA0TJSGGM2",
+  "country": "US",
+  "currency_code": "USD",
+  "confirmation_lead_time": 172800,
+  "customer_can_set_booking_timezone": false,
+  "minisite_deprecated": true,
+  "restype": "request",
+  "waitlist_enabled": false,
+  "require_cof_when_booking": false,
+  "apple_pay_enabled": true,
+  "google_pay_enabled": true,
+  "location_type": "premises",
+  "deposit_charge_type": "fixed_fee",
+  "deposit_amount_cents": 0,
+  "deposit_amount_percentage": 0,
+  "deposit_cancellation_fee_tax_enabled": false,
+  "deposit_cancellation_fee_tax_percentage": null,
+  "deposit_refund_policy": null,
+  "payment_links_enabled": false,
+  "deposits_enabled": false,
+  "timezone": "America/New_York",
+  "email": "bronzebeautiestanning@gmail.com",
+  "name": "Bronze Beauties Beauty Bar",
+  "booking_site_url": "https://square.site/book/02X0F92GYE8N1/bronze-beauties-beauty-bar-elyria-oh",
+  "static_map_url_160": "https://maps.googleapis.com/maps/api/staticmap?markers=41.3636627,-82.07639809999999&size=290x160&zoom=17&key=AIzaSyA4m5CoV6CVCTjU_6WyYpLoN-vtnKvm9tE&signature=ojIievV4uClJKo6MkAdfwBeb0p8=",
+  "static_map_url_80": "https://maps.googleapis.com/maps/api/staticmap?markers=41.3636627,-82.07639809999999&size=160x80&zoom=17&key=AIzaSyA4m5CoV6CVCTjU_6WyYpLoN-vtnKvm9tE&signature=XWlpa_TIYTuLW7CcDXQQ-eBMsAc=",
+  "static_map_url_obs_refresh_190": "https://maps.googleapis.com/maps/api/staticmap?markers=41.3636627,-82.07639809999999&size=328x190&zoom=17&key=AIzaSyA4m5CoV6CVCTjU_6WyYpLoN-vtnKvm9tE&signature=qOw4NJFNXjPIcbyOgW3pfUy_fqQ=",
+  "static_map_url_booking_flow_256": "https://maps.googleapis.com/maps/api/staticmap?markers=41.3636627,-82.07639809999999&size=640x256&zoom=16&key=AIzaSyA4m5CoV6CVCTjU_6WyYpLoN-vtnKvm9tE&signature=yrJA2wBOu5tzY1JkQ1oj5Ad1jRY=",
+  "static_map_url_booking_flow_144": "https://maps.googleapis.com/maps/api/staticmap?markers=41.3636627,-82.07639809999999&size=144x144&zoom=15&key=AIzaSyA4m5CoV6CVCTjU_6WyYpLoN-vtnKvm9tE&signature=e_ag8YGaDIZmbWNbB4aeVVuieMc=",
+  "phone": "(440) 305-6066",
+  "language_code": "en-US",
+  "can_accept_payment_cards": true,
+  "no_show_charge_type": "flat_fee",
+  "send_confirmation_sms": true,
+  "send_confirmation_email": false,
+  "customer_fields_accessible": true,
+  "profile_image": {
+   "url": "https://square-web-production-f.squarecdn.com/files/0a06307913b28c124ddcffb4122864f0b2e8f28f/original.png"
+  }
+ },
+ "active_business_locations": [
+  {
+   "unit_token": "02X0F92GYE8N1",
+   "id": "g69cx0kcoxeks9",
+   "name": "Bronze Beauties Beauty Bar",
+   "nickname": "Bronze Beauties",
+   "street_address": "1083 E Broad St",
+   "city_state_zip": "Elyria, OH 44035-6303",
+   "address1": "1083 E Broad St",
+   "address2": null,
+   "city": "Elyria",
+   "state": "OH",
+   "zipcode": "44035-6303",
+   "static_map_url_obs_refresh_190": "https://maps.googleapis.com/maps/api/staticmap?markers=41.3636627,-82.07639809999999&size=328x190&zoom=17&key=AIzaSyA4m5CoV6CVCTjU_6WyYpLoN-vtnKvm9tE&signature=qOw4NJFNXjPIcbyOgW3pfUy_fqQ=",
+   "static_map_url_booking_flow_256": "https://maps.googleapis.com/maps/api/staticmap?markers=41.3636627,-82.07639809999999&size=640x256&zoom=16&key=AIzaSyA4m5CoV6CVCTjU_6WyYpLoN-vtnKvm9tE&signature=yrJA2wBOu5tzY1JkQ1oj5Ad1jRY=",
+   "static_map_url_booking_flow_144": "https://maps.googleapis.com/maps/api/staticmap?markers=41.3636627,-82.07639809999999&size=144x144&zoom=15&key=AIzaSyA4m5CoV6CVCTjU_6WyYpLoN-vtnKvm9tE&signature=e_ag8YGaDIZmbWNbB4aeVVuieMc=",
+   "booking_flow_url": "https://app.squareup.com/appointments/book/qznx4p3eq8ojug/02X0F92GYE8N1/start",
+   "service_images_enabled": false,
+   "categories_enabled": true,
+   "category_images_enabled": false,
+   "online_afterpay_enabled": true,
+   "timezone": "America/New_York",
+   "all_hours": {
+    "0": [
+     {
+      "open": -1,
+      "close": -1
+     }
+    ],
+    "1": [
+     {
+      "open": 32400,
+      "close": 68400
+     }
+    ],
+    "2": [
+     {
+      "open": 32400,
+      "close": 68400
+     }
+    ],
+    "3": [
+     {
+      "open": 32400,
+      "close": 68400
+     }
+    ],
+    "4": [
+     {
+      "open": 32400,
+      "close": 68400
+     }
+    ],
+    "5": [
+     {
+      "open": 32400,
+      "close": 68400
+     }
+    ],
+    "6": [
+     {
+      "open": 34200,
+      "close": 61200
+     }
+    ]
+   },
+   "special_hours": [],
+   "website_url": "http://bronze-beauties.square.site",
+   "facebook_url": "https://www.facebook.com/BronzeBeautiesLLC",
+   "instagram_url": "https://www.instagram.com/bronzebeauties_beautybar",
+   "twitter_url": null
+  }
+ ],
+ "enabled_business_locations_by_service_staff": [
+  {
+   "unit_token": "02X0F92GYE8N1",
+   "id": "g69cx0kcoxeks9"
+  }
+ ],
+ "services": [
+  {
+   "id": "I35MYKJZBBHH74FF27OGX33J",
+   "cogs_id": "I35MYKJZBBHH74FF27OGX33J",
+   "name": "Sale!!! Teeth Whitening Session",
+   "description": "Whiten your teeth and have a brighter smile! Price is per session\n\nWe guarantee your teeth will go down a few shades in just one session; but everyone is expected to have different results because of daily life activities and everyone's teeth are different.\nAll sales are final !",
+   "description_html": "<p>Whiten your teeth and have a brighter smile! Price is per session</p><p><br></p><p>We guarantee your teeth will go down a few shades in just one session; but everyone is expected to have different results because of daily life activities and everyone&#39;s teeth are different.</p><p>All sales are final !</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 10000,
+   "no_show_fee_cents": 2500,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 600,
+   "item_variation_version": 1788965020196,
+   "item_token": "I35MYKJZBBHH74FF27OGX33J",
+   "item_version": 1789092853084,
+   "item_variation_token": "N7QVSN46HZ4BPZ7EPXLGDATN",
+   "currency_code": "USD",
+   "fee_ids": [
+    "YUWN76FNPZZGUMQHBOYILSHV"
+   ],
+   "category_token": "JROHK2VN2LGYDXAGRK3JMJPO",
+   "image_tokens": [],
+   "is_taxable": true,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "N7QVSN46HZ4BPZ7EPXLGDATN",
+     "cogs_id": "N7QVSN46HZ4BPZ7EPXLGDATN",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "I35MYKJZBBHH74FF27OGX33J",
+     "item_variation_version": 1788965020196,
+     "item_variation_token": "N7QVSN46HZ4BPZ7EPXLGDATN",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 10000,
+     "no_show_fee_cents": 2500,
+     "no_show_fee_percentage": null,
+     "service_time": 4500,
+     "transition_time": 600,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 4500,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "NCUDKQE4APUHY6CKQLPARV7P",
+   "cogs_id": "NCUDKQE4APUHY6CKQLPARV7P",
+   "name": "Gentleman's Facial-Samantha",
+   "description": "Tailored for Men: Addresses specific male skin concerns including shaving effects and environmental stress.\nComplete Skin Revival: Includes deep pore cleansing, exfoliation, and a custom mask.",
+   "description_html": "<p>Tailored for Men: Addresses specific male skin concerns including shaving effects and environmental stress.</p><p>Complete Skin Revival: Includes deep pore cleansing, exfoliation, and a custom mask.</p><p><br></p><p><br></p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 8000,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1776431711195,
+   "item_token": "NCUDKQE4APUHY6CKQLPARV7P",
+   "item_version": 1789092853084,
+   "item_variation_token": "KS7F3VTSWMICPNEVB347SQ7T",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": "WTVD5PW6GISO6IFX5LVBZSRN",
+   "image_tokens": [],
+   "is_taxable": true,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "KS7F3VTSWMICPNEVB347SQ7T",
+     "cogs_id": "KS7F3VTSWMICPNEVB347SQ7T",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "NCUDKQE4APUHY6CKQLPARV7P",
+     "item_variation_version": 1776431711195,
+     "item_variation_token": "KS7F3VTSWMICPNEVB347SQ7T",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 8000,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 4800,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 4800,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "RZDANBJJUVMW75UVTEVIBKW3",
+   "cogs_id": "RZDANBJJUVMW75UVTEVIBKW3",
+   "name": "SPRAY TAN PACKAGE",
+   "description": "4 Spray tans EXPIRE in 60 days. Once you pay for the package in store we can help you book your sessions. THESE TANS DO NOT CARRY OVER . Must be used within 60 days of purchasing. No refunds. ",
+   "description_html": "<p>4 Spray tans EXPIRE in 60 days. Once you pay for the package in store we can help you book your sessions. THESE TANS DO NOT CARRY OVER . Must be used within 60 days of purchasing. No refunds.</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 14000,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1769615609593,
+   "item_token": "RZDANBJJUVMW75UVTEVIBKW3",
+   "item_version": 1789092853084,
+   "item_variation_token": "3BHRZV5NANE2ZVX2KCLS7EUY",
+   "currency_code": "USD",
+   "fee_ids": [
+    "YUWN76FNPZZGUMQHBOYILSHV"
+   ],
+   "category_token": "UUFNSIWFVRIBXRIFOC6EVEII",
+   "image_tokens": [],
+   "is_taxable": true,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "3BHRZV5NANE2ZVX2KCLS7EUY",
+     "cogs_id": "3BHRZV5NANE2ZVX2KCLS7EUY",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "RZDANBJJUVMW75UVTEVIBKW3",
+     "item_variation_version": 1769615609593,
+     "item_variation_token": "3BHRZV5NANE2ZVX2KCLS7EUY",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 14000,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 1800,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 1800,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "Z7LZCA7ZJGVQ3AS2WICQ4KGP",
+   "cogs_id": "57OYVUEBEOIIWWSM3QL7S77N",
+   "name": "Any Spray Tan",
+   "description": "\ud83d\udccb Follow our pre and post tan instructions for the best results.\n\n\ud83d\udeab All sales are final! No returns or exchanges. \ud83d\udeab",
+   "description_html": "<p>\ud83d\udccb Follow our pre and post tan instructions for the best results.</p><p><br></p><p>\ud83d\udeab All sales are final! No returns or exchanges. \ud83d\udeab</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 6000,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1769615609593,
+   "item_token": "Z7LZCA7ZJGVQ3AS2WICQ4KGP",
+   "item_version": 1789092853084,
+   "item_variation_token": "AX24SDBDGCMGWWRHZTAXZGEP",
+   "currency_code": "USD",
+   "fee_ids": [
+    "YUWN76FNPZZGUMQHBOYILSHV"
+   ],
+   "category_token": "UUFNSIWFVRIBXRIFOC6EVEII",
+   "image_tokens": [],
+   "is_taxable": true,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "AX24SDBDGCMGWWRHZTAXZGEP",
+     "cogs_id": "66M7NOFBXML7FU2FQQIP43QF",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "Z7LZCA7ZJGVQ3AS2WICQ4KGP",
+     "item_variation_version": 1769615609593,
+     "item_variation_token": "AX24SDBDGCMGWWRHZTAXZGEP",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 6000,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 1800,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 1800,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "7UGNJJTCSQ7W5PAEKYKSGEQG",
+   "cogs_id": "7UGNJJTCSQ7W5PAEKYKSGEQG",
+   "name": "Spray Tan Moisture Lock - Add On",
+   "description": "This will be added into your solution to help prolong your tan.",
+   "description_html": "<p>This will be added into your solution to help prolong your tan.</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 500,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1769615609593,
+   "item_token": "7UGNJJTCSQ7W5PAEKYKSGEQG",
+   "item_version": 1789092853084,
+   "item_variation_token": "HRAKMNOWOPAVGQQ4EKZ73DAO",
+   "currency_code": "USD",
+   "fee_ids": [
+    "YUWN76FNPZZGUMQHBOYILSHV"
+   ],
+   "category_token": "UUFNSIWFVRIBXRIFOC6EVEII",
+   "image_tokens": [],
+   "is_taxable": true,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "HRAKMNOWOPAVGQQ4EKZ73DAO",
+     "cogs_id": "HRAKMNOWOPAVGQQ4EKZ73DAO",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "7UGNJJTCSQ7W5PAEKYKSGEQG",
+     "item_variation_version": 1769615609593,
+     "item_variation_token": "HRAKMNOWOPAVGQQ4EKZ73DAO",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 500,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 300,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 300,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "6F2WG4G55YSEV47RQTKUYXKS",
+   "cogs_id": "6F2WG4G55YSEV47RQTKUYXKS",
+   "name": "ANY FULL SET OF LASHES",
+   "description": "This is for a classic, hybrid or volume full set of lashes. Please arrive with no eye makeup on",
+   "description_html": "<p>This is for a classic, hybrid or volume full set of lashes. Please arrive with no eye makeup on</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 12000,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1770902194007,
+   "item_token": "6F2WG4G55YSEV47RQTKUYXKS",
+   "item_version": 1789092853084,
+   "item_variation_token": "MBVGCREG3Y7YTN3GAL3YJM32",
+   "currency_code": "USD",
+   "fee_ids": [
+    "YUWN76FNPZZGUMQHBOYILSHV"
+   ],
+   "category_token": "TG4FXVB24QE55VIPCMS755VN",
+   "image_tokens": [],
+   "is_taxable": true,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "MBVGCREG3Y7YTN3GAL3YJM32",
+     "cogs_id": "MBVGCREG3Y7YTN3GAL3YJM32",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "6F2WG4G55YSEV47RQTKUYXKS",
+     "item_variation_version": 1770902194007,
+     "item_variation_token": "MBVGCREG3Y7YTN3GAL3YJM32",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 12000,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 10800,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 10800,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "FHK577MIDBXCAVVOLNPLZW4F",
+   "cogs_id": "FHK577MIDBXCAVVOLNPLZW4F",
+   "name": "3 WEEK LASH FILL",
+   "description": "(MUST HAVE 50% OF YOUR LASHES TO BE CONSIDERED A FILL.) IF YOU ARRIVE TO YOUR APPT. WITH BARLEY ANY LASHES YOU WILL BE CHARGED A FULL SET SO PLEASE BOOK ACCORDINGLY. FILLS CANNOT GO PAST 2 WEEKS. DURING YOUR LASH FILL THE LASH TECH WILL REFRESH YOUR LASHES BY REPLACING OVER GROWN LASHES AND REPLACING WITH NEW LASHES ALONG WITH FILLING IN EMPTY SPACES",
+   "description_html": "<p>(MUST HAVE 50% OF YOUR LASHES TO BE CONSIDERED A FILL.) IF YOU ARRIVE TO YOUR APPT. WITH BARLEY ANY LASHES YOU WILL BE CHARGED A FULL SET SO PLEASE BOOK ACCORDINGLY. FILLS CANNOT GO PAST 2 WEEKS. DURING YOUR LASH FILL THE LASH TECH WILL REFRESH YOUR LASHES BY REPLACING OVER GROWN LASHES AND REPLACING WITH NEW LASHES ALONG WITH FILLING IN EMPTY SPACES</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 8000,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1788568561826,
+   "item_token": "FHK577MIDBXCAVVOLNPLZW4F",
+   "item_version": 1789092853084,
+   "item_variation_token": "JG7HKDSXB7MA7T7SAPT6KKOO",
+   "currency_code": "USD",
+   "fee_ids": [
+    "YUWN76FNPZZGUMQHBOYILSHV"
+   ],
+   "category_token": "TG4FXVB24QE55VIPCMS755VN",
+   "image_tokens": [],
+   "is_taxable": true,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "JG7HKDSXB7MA7T7SAPT6KKOO",
+     "cogs_id": "JG7HKDSXB7MA7T7SAPT6KKOO",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "FHK577MIDBXCAVVOLNPLZW4F",
+     "item_variation_version": 1788568561826,
+     "item_variation_token": "JG7HKDSXB7MA7T7SAPT6KKOO",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 8000,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 7800,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 7800,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "YUI2ALN4MEJLPBRGADKZ2WYQ",
+   "cogs_id": "YUI2ALN4MEJLPBRGADKZ2WYQ",
+   "name": "2 WEEK LASH FILL",
+   "description": "(MUST HAVE 50% OF YOUR LASHES TO BE CONSIDERED A FILL.) IF YOU ARRIVE TO YOUR APPT. WITH BARLEY ANY LASHES YOU WILL BE CHARGED A FULL SET SO PLEASE BOOK ACCORDINGLY. FILLS CANNOT GO PAST 3 WEEKS. DURING YOUR LASH FILL THE LASH TECH WILL REFRESH YOUR LASHES BY REPLACING OVER GROWN LASHES AND REPLACING WITH NEW LASHES ALONG WITH FILLING IN EMPTY SPACES",
+   "description_html": "<p>(MUST HAVE 50% OF YOUR LASHES TO BE CONSIDERED A FILL.) IF YOU ARRIVE TO YOUR APPT. WITH BARLEY ANY LASHES YOU WILL BE CHARGED A FULL SET SO PLEASE BOOK ACCORDINGLY. FILLS CANNOT GO PAST 3 WEEKS. DURING YOUR LASH FILL THE LASH TECH WILL REFRESH YOUR LASHES BY REPLACING OVER GROWN LASHES AND REPLACING WITH NEW LASHES ALONG WITH FILLING IN EMPTY SPACES</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 7500,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1788568549900,
+   "item_token": "YUI2ALN4MEJLPBRGADKZ2WYQ",
+   "item_version": 1789092853084,
+   "item_variation_token": "WZVQ2MC6OZLYGLG7S3CPTWFO",
+   "currency_code": "USD",
+   "fee_ids": [
+    "YUWN76FNPZZGUMQHBOYILSHV"
+   ],
+   "category_token": "TG4FXVB24QE55VIPCMS755VN",
+   "image_tokens": [],
+   "is_taxable": true,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "WZVQ2MC6OZLYGLG7S3CPTWFO",
+     "cogs_id": "WZVQ2MC6OZLYGLG7S3CPTWFO",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "YUI2ALN4MEJLPBRGADKZ2WYQ",
+     "item_variation_version": 1788568549900,
+     "item_variation_token": "WZVQ2MC6OZLYGLG7S3CPTWFO",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 7500,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 7500,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 7500,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "OWKWB4JABTQ6KOUGNRTDU62I",
+   "cogs_id": "MPAYMNV4LDPRZUF5DCU75G25",
+   "name": "Lash Removal",
+   "description": null,
+   "description_html": "",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 2500,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1789092853084,
+   "item_token": "OWKWB4JABTQ6KOUGNRTDU62I",
+   "item_version": 1789092853084,
+   "item_variation_token": "2PXKDF5IDBLZYA33FUYEKSUH",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": "TG4FXVB24QE55VIPCMS755VN",
+   "image_tokens": [],
+   "is_taxable": false,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "2PXKDF5IDBLZYA33FUYEKSUH",
+     "cogs_id": "IPF4FNDQ6YG2KNIA7MKBXUEZ",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "OWKWB4JABTQ6KOUGNRTDU62I",
+     "item_variation_version": 1789092853084,
+     "item_variation_token": "2PXKDF5IDBLZYA33FUYEKSUH",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 2500,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 3600,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 3600,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "BATFM2JT67HPI3YYAT2GPF2L",
+   "cogs_id": "CNJEO7TPKTSFU2NNZAKNTNWQ",
+   "name": "\u2b50\ufe0f Signature Facial - Samantha",
+   "description": "Personalized Skin Solution: Tackles everything from acne to blackheads, with a gentle double cleanse and enzymatic exfoliation catered to your skins needs. \nAdvanced Treatments Included: Hot towels, Steam, Shoulder/ scalp massage and high frequency.",
+   "description_html": "<p>Personalized Skin Solution: Tackles everything from acne to blackheads, with a gentle double cleanse and enzymatic exfoliation catered to your skins needs.</p><p>Advanced Treatments Included: Hot towels, Steam, Shoulder/ scalp massage and high frequency.</p>",
+   "ordinal": null,
+   "price_description": "70.00",
+   "price_cents": 7500,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1789092853084,
+   "item_token": "BATFM2JT67HPI3YYAT2GPF2L",
+   "item_version": 1789092853084,
+   "item_variation_token": "P6WPNLSTCPI6E3B527KW2E2F",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": "WTVD5PW6GISO6IFX5LVBZSRN",
+   "image_tokens": [],
+   "is_taxable": false,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "P6WPNLSTCPI6E3B527KW2E2F",
+     "cogs_id": "O6SHISX4SXMNZAV2NBLU3ZYT",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "BATFM2JT67HPI3YYAT2GPF2L",
+     "item_variation_version": 1789092853084,
+     "item_variation_token": "P6WPNLSTCPI6E3B527KW2E2F",
+     "price_type": "fixed",
+     "price_description": "70.00",
+     "price_cents": 7500,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 3600,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 3600,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "6FDKQTFQHWWAK4AYUIOJSZVQ",
+   "cogs_id": "53F5YVDB75AFGUACODHJLI3E",
+   "name": "\u2b50\ufe0fOn the go Facial - Samantha",
+   "description": "Quick, Effective, Transformative: Tailored to your skin type, our express facial packs in double cleansing, exfoliation, extractions, and more for an instant glow!\n\nPerfect for Busy Schedules: Getpampered with a scalp massage ,hot towels&steam topped with serum, moisturizer, and SPF.",
+   "description_html": "Quick, Effective, Transformative: Tailored to your skin type, our express facial packs in double cleansing, exfoliation, extractions, and more for an instant glow!\n\nPerfect for Busy Schedules: Getpampered with a scalp massage ,hot towels&amp;steam topped with serum, moisturizer, and SPF.",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 6000,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1789092853084,
+   "item_token": "6FDKQTFQHWWAK4AYUIOJSZVQ",
+   "item_version": 1789092853084,
+   "item_variation_token": "VHFM2W7FWYILEZZDCRZIX7RY",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": "WTVD5PW6GISO6IFX5LVBZSRN",
+   "image_tokens": [],
+   "is_taxable": false,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "VHFM2W7FWYILEZZDCRZIX7RY",
+     "cogs_id": "O2IAFAMAIQ7FKZIBQD4S225C",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "6FDKQTFQHWWAK4AYUIOJSZVQ",
+     "item_variation_version": 1789092853084,
+     "item_variation_token": "VHFM2W7FWYILEZZDCRZIX7RY",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 6000,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 2400,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 2400,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "QLBWV4OBK2GIA5DCD7S6ZV5G",
+   "cogs_id": "3OOQKKD3JVJHLKVS2HXB5CH6",
+   "name": "Dermaplaning Facial - Samantha",
+   "description": "Ultra-Smooth Skin: Removes dead skin and peach fuzz with a sterile scalpel for a flawless finish.\nAll-Inclusive Experience: Complete with cleansing, extractions, LED therapy, and a pampering shoulder/ scalp massage ",
+   "description_html": "<p>Ultra-Smooth Skin: Removes dead skin and peach fuzz with a sterile scalpel for a flawless finish.</p><p>All-Inclusive Experience: Complete with cleansing, extractions, LED therapy, and a pampering shoulder/ scalp massage</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 8000,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1789092853084,
+   "item_token": "QLBWV4OBK2GIA5DCD7S6ZV5G",
+   "item_version": 1789092853084,
+   "item_variation_token": "TAGMBOALCB6LMELFOHSFBICK",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": "WTVD5PW6GISO6IFX5LVBZSRN",
+   "image_tokens": [],
+   "is_taxable": false,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "TAGMBOALCB6LMELFOHSFBICK",
+     "cogs_id": "Z5ULGUA5YVF2CZQQNNNSACYR",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "QLBWV4OBK2GIA5DCD7S6ZV5G",
+     "item_variation_version": 1789092853084,
+     "item_variation_token": "TAGMBOALCB6LMELFOHSFBICK",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 8000,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 5400,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 5400,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "VLT56JL33WDNPHJ2P5AQD5SN",
+   "cogs_id": "LT464X4ESGFI26Z7ZPNDZHJW",
+   "name": "Oxygen Brightening Facial",
+   "description": "Key Ingredients and Benefits:\n* Oxygen: Delivers oxygen to the skin to energize, purify, and brighten.\u00a0\u2028\n* Plant-derived Stem Cells: Helps to plump up the appearance of skin.\u00a0\u2028\n* Peptides: May help improve skin firmness and reduce the appearance of fine lines.\u00a0\u2028\n* Enzymatic Botanicals: Enzymatic peels help to gently exfoliate and remove dead skin cells for a smoother, brighter complexion.\u00a0\n\n\na skincare treatment that infuses oxygen, plant-derived stem cells, peptides, and enzymatic botanicals to rejuvenate and brighten the skin.\u00a0\n* This treatment is designed to exfoliate, illuminate, and oxygenate the skin, leaving it looking luminous and refreshed.\u00a0\u2028\nIncludes mask and scalp massage. \n\nFor best results pair this treatment with derma-planing  ($20 add on)",
+   "description_html": "<p>Key Ingredients and Benefits:</p><p>* Oxygen: Delivers oxygen to the skin to energize, purify, and brighten.</p><p>* Plant-derived Stem Cells: Helps to plump up the appearance of skin.</p><p>* Peptides: May help improve skin firmness and reduce the appearance of fine lines.</p><p>* Enzymatic Botanicals: Enzymatic peels help to gently exfoliate and remove dead skin cells for a smoother, brighter complexion.</p><p><br></p><p><br></p><p>a skincare treatment that infuses oxygen, plant-derived stem cells, peptides, and enzymatic botanicals to rejuvenate and brighten the skin.</p><p>* This treatment is designed to exfoliate, illuminate, and oxygenate the skin, leaving it looking luminous and refreshed.</p><p>Includes mask and scalp massage.</p><p><br></p><p>For best results pair this treatment with derma-planing  ($20 add on)</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 9500,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1789092853084,
+   "item_token": "VLT56JL33WDNPHJ2P5AQD5SN",
+   "item_version": 1789092853084,
+   "item_variation_token": "WB3ADIVVVAIAYH3RZS44FJZC",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": "WTVD5PW6GISO6IFX5LVBZSRN",
+   "image_tokens": [],
+   "is_taxable": false,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "WB3ADIVVVAIAYH3RZS44FJZC",
+     "cogs_id": "2AYJ2P2XV6UTG56F3SEVIQRL",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "VLT56JL33WDNPHJ2P5AQD5SN",
+     "item_variation_version": 1789092853084,
+     "item_variation_token": "WB3ADIVVVAIAYH3RZS44FJZC",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 9500,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 4800,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 4800,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "R5UIXVRBV5SOI6MRRGQQF4OY",
+   "cogs_id": "AUWGQE4I6SV6H5JQCTKNZIZE",
+   "name": "MicroDermabrasian Facial- Samantha",
+   "description": "Microdermabrasion is a  procedure that exfoliates the skin, removing the outer layer of dead skin cells to reveal a smoother, brighter, and more even complexion. It can help reduce the appearance of fine lines, wrinkles, acne scars, age spots, and hyperpigmentation overtime. This treatment also stimulates collagen production, which can lead to firmer, tighter skin over time. ",
+   "description_html": "<p>Microdermabrasion is a  procedure that exfoliates the skin, removing the outer layer of dead skin cells to reveal a smoother, brighter, and more even complexion. It can help reduce the appearance of fine lines, wrinkles, acne scars, age spots, and hyperpigmentation overtime. This treatment also stimulates collagen production, which can lead to firmer, tighter skin over time.</p>",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 9500,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1789092853084,
+   "item_token": "R5UIXVRBV5SOI6MRRGQQF4OY",
+   "item_version": 1789092853084,
+   "item_variation_token": "BDIPF2OEAZEYVYQYWWRKX7EO",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": "WTVD5PW6GISO6IFX5LVBZSRN",
+   "image_tokens": [],
+   "is_taxable": false,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "BDIPF2OEAZEYVYQYWWRKX7EO",
+     "cogs_id": "AW4NLFHOKKH6L6ITRM6V4LRZ",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "R5UIXVRBV5SOI6MRRGQQF4OY",
+     "item_variation_version": 1789092853084,
+     "item_variation_token": "BDIPF2OEAZEYVYQYWWRKX7EO",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 9500,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 5400,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 5400,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "UGGHRDSFSQOBC435OZQUOBQI",
+   "cogs_id": "UGGHRDSFSQOBC435OZQUOBQI",
+   "name": "Hydrodermabrasian Facial\ud83d\udca6",
+   "description": "Indulge in the ultimate skin-refining experience. Our Hydrodermabrasion Facial is a luxurious, non-invasive treatment that deeply cleanses, gently exfoliates, and intensely hydrates the skin using advanced water-based technology.\n\nThis results-driven facial helps refine pores, smooth texture, soften fine lines, and restore a radiant, dewy glow. Perfect for all skin types, it delivers instant, visible results\u2014leaving your skin refreshed, rejuvenated, and beautifully luminous with no downtime.",
+   "description_html": "Indulge in the ultimate skin-refining experience. Our Hydrodermabrasion Facial is a luxurious, non-invasive treatment that deeply cleanses, gently exfoliates, and intensely hydrates the skin using advanced water-based technology.\n\nThis results-driven facial helps refine pores, smooth texture, soften fine lines, and restore a radiant, dewy glow. Perfect for all skin types, it delivers instant, visible results\u2014leaving your skin refreshed, rejuvenated, and beautifully luminous with no downtime.",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 15000,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 900,
+   "item_variation_version": 1778333634001,
+   "item_token": "UGGHRDSFSQOBC435OZQUOBQI",
+   "item_version": 1789092853084,
+   "item_variation_token": "KWGAFWTJ6QSED2ENI3Q3BWLX",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": "WTVD5PW6GISO6IFX5LVBZSRN",
+   "image_tokens": [],
+   "is_taxable": false,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "KWGAFWTJ6QSED2ENI3Q3BWLX",
+     "cogs_id": "KWGAFWTJ6QSED2ENI3Q3BWLX",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "UGGHRDSFSQOBC435OZQUOBQI",
+     "item_variation_version": 1778333634001,
+     "item_variation_token": "KWGAFWTJ6QSED2ENI3Q3BWLX",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 15000,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 6300,
+     "transition_time": 900,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 6300,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "SJ3NGDWTKZZX4CLIZC7EFSZH",
+   "cogs_id": "SJ3NGDWTKZZX4CLIZC7EFSZH",
+   "name": "Peptide Tightening Facial\u2728",
+   "description": "This Firming Peptide Treatment is a professional, non-invasive facial that uses a potent blend of peptides, antioxidants, and dermal regeneration science to instantly firm, tighten, and detoxify the\n skin. It boosts skin metabolism and addresses aging, sagging, and UV damage, providing immediate results often described as a \"no Botox\" facelift.\n* This facial includes dermaplane if your a good candidate",
+   "description_html": "This Firming Peptide Treatment is a professional, non-invasive facial that uses a potent blend of peptides, antioxidants, and dermal regeneration science to instantly firm, tighten, and detoxify the\n skin. It boosts skin metabolism and addresses aging, sagging, and UV damage, providing immediate results often described as a &#34;no Botox&#34; facelift.\n* This facial includes dermaplane if your a good candidate ",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 13000,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1785870987253,
+   "item_token": "SJ3NGDWTKZZX4CLIZC7EFSZH",
+   "item_version": 1789092853084,
+   "item_variation_token": "O5UCQYY6ERKEVIGLUODXRPT7",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": null,
+   "image_tokens": [],
+   "is_taxable": false,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "O5UCQYY6ERKEVIGLUODXRPT7",
+     "cogs_id": "O5UCQYY6ERKEVIGLUODXRPT7",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "SJ3NGDWTKZZX4CLIZC7EFSZH",
+     "item_variation_version": 1785870987253,
+     "item_variation_token": "O5UCQYY6ERKEVIGLUODXRPT7",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 13000,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 7200,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 7200,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  },
+  {
+   "id": "K4UV7FGCKUVFN5GUYTSKBM75",
+   "cogs_id": "K4UV7FGCKUVFN5GUYTSKBM75",
+   "name": "Fall sale!!!Korean Lash Lift& tint",
+   "description": "A Korean lash lift is an advanced, health-conscious lash-curling technique that lifts lashes straight up from the root using a gentle, cysteamine-based formula instead of harsh traditional chemicals.\nLasts 5-8 weeks",
+   "description_html": "A Korean lash lift is an advanced, health-conscious lash-curling technique that lifts lashes straight up from the root using a gentle, cysteamine-based formula instead of harsh traditional chemicals.\nLasts 5-8 weeks\n\n",
+   "ordinal": null,
+   "price_description": null,
+   "price_cents": 6500,
+   "no_show_fee_cents": null,
+   "no_show_fee_percentage": null,
+   "price_type": "fixed",
+   "transition_time": 0,
+   "item_variation_version": 1790260585182,
+   "item_token": "K4UV7FGCKUVFN5GUYTSKBM75",
+   "item_version": 1790260585182,
+   "item_variation_token": "NZPWVGBWA5SLRXKJPIKP2A53",
+   "currency_code": "USD",
+   "fee_ids": [],
+   "category_token": "TG4FXVB24QE55VIPCMS755VN",
+   "image_tokens": [],
+   "is_taxable": false,
+   "chargeable": true,
+   "variations": [
+    {
+     "id": "NZPWVGBWA5SLRXKJPIKP2A53",
+     "cogs_id": "NZPWVGBWA5SLRXKJPIKP2A53",
+     "name": "Regular",
+     "ordinal": 0,
+     "item_token": "K4UV7FGCKUVFN5GUYTSKBM75",
+     "item_variation_version": 1790260585182,
+     "item_variation_token": "NZPWVGBWA5SLRXKJPIKP2A53",
+     "price_type": "fixed",
+     "price_description": null,
+     "price_cents": 6500,
+     "no_show_fee_cents": null,
+     "no_show_fee_percentage": null,
+     "service_time": 5400,
+     "transition_time": 0,
+     "is_visible_in_default_booking": true,
+     "staff_ids": [
+      "vefbrpdho27fd8"
+     ],
+     "chargeable": true,
+     "intermissions": [],
+     "resource_tokens": [],
+     "image_tokens": [],
+     "service_cost": null,
+     "deposit_amount_cents": null,
+     "deposit_amount_percentage": null
+    }
+   ],
+   "time": 5400,
+   "modifier_list_info": [],
+   "staff_ids": [
+    "vefbrpdho27fd8"
+   ]
+  }
+ ],
+ "modifier_lists": [],
+ "staff": [
+  {
+   "id": "vefbrpdho27fd8",
+   "first_name": "Samantha",
+   "short_name": "Samantha Camel- Spray Tan Artist/Body Contouring Tech",
+   "long_name": "Samantha Camel- Spray Tan Artist/Body Contouring Tech",
+   "last_name": "Camel",
+   "employee_token": "4kr0qyI14m1aJQIO9b5I",
+   "bio": null,
+   "profile_image": {
+    "url": "https://appointments-production-f.squarecdn.com/files/abbea769b8bf6e8e659632af5fef84d3/original.jpg"
+   }
+  }
+ ],
+ "fees": [
+  {
+   "id": "YUWN76FNPZZGUMQHBOYILSHV",
+   "cogs_id": "YUWN76FNPZZGUMQHBOYILSHV",
+   "name": "Lorain County Sales Tax",
+   "calculation_phase": "FEE_SUBTOTAL_PHASE",
+   "fee_type_id": "us_sales_tax",
+   "fee_type_name": "Sales Tax",
+   "inclusion_type": "ADDITIVE",
+   "percentage": 6.75,
+   "product_set": null
+  }
+ ],
+ "categories": [
+  {
+   "name": "Post Op Therapy Massage",
+   "version": 1755747477917,
+   "cogs_id": "E22ARZUBBLOVTJMUJJXQX3PM",
+   "ordinal": 1,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "E22ARZUBBLOVTJMUJJXQX3PM"
+  },
+  {
+   "name": "Body Contouring/Laser Lipo",
+   "version": 1771186524057,
+   "cogs_id": "S7AVP47Q6PDSQXMPB7QAKQBK",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "S7AVP47Q6PDSQXMPB7QAKQBK"
+  },
+  {
+   "name": "Extreme Sculpting",
+   "version": 1755747477917,
+   "cogs_id": "2W4RF6FXBULGU72EBLQY4LET",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "2W4RF6FXBULGU72EBLQY4LET"
+  },
+  {
+   "name": "Non-Surgical Butt Lift",
+   "version": 1755747477917,
+   "cogs_id": "S3JSBGWWIYM6KPDEG7Q5A4HY",
+   "ordinal": 6,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "S3JSBGWWIYM6KPDEG7Q5A4HY"
+  },
+  {
+   "name": "Spray Tanning",
+   "version": 1770902202019,
+   "cogs_id": "UUFNSIWFVRIBXRIFOC6EVEII",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "UUFNSIWFVRIBXRIFOC6EVEII"
+  },
+  {
+   "name": "Teeth Whitening",
+   "version": 1755747477917,
+   "cogs_id": "JROHK2VN2LGYDXAGRK3JMJPO",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "JROHK2VN2LGYDXAGRK3JMJPO"
+  },
+  {
+   "name": "Facials",
+   "version": 1776785595781,
+   "cogs_id": "WTVD5PW6GISO6IFX5LVBZSRN",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "WTVD5PW6GISO6IFX5LVBZSRN"
+  },
+  {
+   "name": "Facials- Add Ons",
+   "version": 1771186451749,
+   "cogs_id": "O644Y7XQIU4KFTDNPZUN2PGE",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "O644Y7XQIU4KFTDNPZUN2PGE"
+  },
+  {
+   "name": "Waxing",
+   "version": 1771186465230,
+   "cogs_id": "ZUFGQH67YFWTSELPOBU4OOIS",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "ZUFGQH67YFWTSELPOBU4OOIS"
+  },
+  {
+   "name": "Brows",
+   "version": 1755747478500,
+   "cogs_id": "F6O3SDL6B27IBEEN4MPRBQOU",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "F6O3SDL6B27IBEEN4MPRBQOU"
+  },
+  {
+   "name": "Lashes",
+   "version": 1789416202572,
+   "cogs_id": "TG4FXVB24QE55VIPCMS755VN",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "TG4FXVB24QE55VIPCMS755VN"
+  },
+  {
+   "name": "Nails",
+   "version": 1771186507219,
+   "cogs_id": "TME7MPVG4QH5QXKLW746RPBY",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "TME7MPVG4QH5QXKLW746RPBY"
+  },
+  {
+   "name": "Nails- Extras/Add Ons",
+   "version": 1771186480096,
+   "cogs_id": "EMLAUANZUQJW236HZMEXFV3S",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "EMLAUANZUQJW236HZMEXFV3S"
+  },
+  {
+   "name": "Massage",
+   "version": 1755747479076,
+   "cogs_id": "SUWW3FGF2IGNLLKZXDJFEHLE",
+   "ordinal": 8,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "SUWW3FGF2IGNLLKZXDJFEHLE"
+  },
+  {
+   "name": "Employee's Only",
+   "version": 1755747479076,
+   "cogs_id": "FA2ZK3FTNPAHT4J35A36Q2XN",
+   "ordinal": 3,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "FA2ZK3FTNPAHT4J35A36Q2XN"
+  },
+  {
+   "name": "Specials",
+   "version": 1755747479076,
+   "cogs_id": "FGLMEOAF7YRMB337MXHRS4V6",
+   "ordinal": null,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "FGLMEOAF7YRMB337MXHRS4V6"
+  },
+  {
+   "name": "Lash add ons",
+   "version": 1755747479076,
+   "cogs_id": "EEVYALHO5GQ7BDA2URFBEIAP",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "EEVYALHO5GQ7BDA2URFBEIAP"
+  },
+  {
+   "name": "Locs",
+   "version": 1755747479076,
+   "cogs_id": "XCFDBP5PGNZFCQJMKAQFICGC",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "SUM7N5FX4P3BWURYFO2U7OQM"
+  },
+  {
+   "name": "Permanent Makeup",
+   "version": 1755747479617,
+   "cogs_id": "N7OMHUNYWAREE27IEXNC7ZW7",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "N7OMHUNYWAREE27IEXNC7ZW7"
+  },
+  {
+   "name": "Makeup",
+   "version": 1771186520500,
+   "cogs_id": "EAQG5I6HYFFPL63GOFFWOTC2",
+   "ordinal": 0,
+   "is_top_level": true,
+   "root_category": null,
+   "image_tokens": [],
+   "id": "EAQG5I6HYFFPL63GOFFWOTC2"
+  }
+ ],
+ "seller_brand": {
+  "colors": {
+   "primary": "546476"
+  },
+  "logos": {
+   "framed": {
+    "url": "https://seller-brand-assets-f.squarecdn.com/ARFDA0TJSGGM2/68a93a9add6f318bb366cda1bed895ec.png"
+   },
+   "full_format": null
+  }
+ },
+ "business_location_id": "g69cx0kcoxeks9",
+ "unit_active": true,
+ "business_location_fb_pixel_id": null,
+ "unit_token": "02X0F92GYE8N1",
+ "fiscal_reporting_threshold": null,
+ "fiscal_reporting_opted_in": false,
+ "encrypted_unit_name": "eyJlbmMiOiJBMTI4R0NNIiwidGFnIjoiUlZpVkJKbXJ0bEwybWJUQnBIV0hzZyIsImFsZyI6IkExMjhHQ01LVyIsIml2IjoiMWo5QWhKUEdReFI4X2RtUCJ9.mL8N05G-lel71HBi_TZoeQ.PUpgrC1xRtxNG6dz.muedUO-RzLBKUw8Da8TL8t1oC1B1kCvOrkgCn5bCx5rLbQtNwD4cWYE.H14LrFGzBYqWu_gsMA8Jbg",
+ "giftcard_url": null,
+ "giftcard_image_url": null,
+ "images": {},
+ "locations": [
+  {
+   "type": "premises",
+   "name": "Bronze Beauties Beauty Bar",
+   "address1": "1083 E Broad St",
+   "address2": null,
+   "zipcode": "44035-6303",
+   "city": "Elyria",
+   "state": "OH"
+  }
+ ]
+}
