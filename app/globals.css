@@ -298,6 +298,50 @@
   }
 }
 
+/* Menu button: the Lash. A closed, lashed eye that opens into a bronze iris. */
+.lash-icon {
+  display: block;
+  overflow: visible;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.lash-icon * {
+  transform-box: view-box;
+  transition:
+    transform 0.6s var(--ease-glow),
+    opacity 0.4s ease;
+}
+.lash-icon .lash-closed,
+.lash-icon .lash-open {
+  transform-origin: 24px 24px;
+}
+.lash-icon .lash-open {
+  opacity: 0;
+  transform: scaleY(0.06);
+}
+.lash-icon .lash-glint {
+  opacity: 0;
+  transform-origin: 26px 21.8px;
+  transform: scale(0);
+}
+.lash-icon[data-open='true'] .lash-closed {
+  opacity: 0;
+  transform: scaleY(1.6);
+}
+.lash-icon[data-open='true'] .lash-open {
+  opacity: 1;
+  transform: none;
+  transition-delay: 0.06s;
+}
+.lash-icon[data-open='true'] .lash-glint {
+  opacity: 1;
+  transform: none;
+  transition-delay: 0.38s;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
