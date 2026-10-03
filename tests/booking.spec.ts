@@ -58,6 +58,20 @@ test.describe('Mobile', () => {
     await expect(page).toHaveURL(/\/visit$/);
   });
 
+  test('lash menu button opens its eye, then closes it again', async ({ page }) => {
+    await page.goto('/');
+    const trigger = page.getByRole('button', { name: 'Open menu' });
+    await expect(trigger.locator('svg.lash-icon')).toHaveAttribute('data-open', 'false');
+    await trigger.click();
+    const dialog = page.getByRole('dialog', { name: 'Menu' });
+    await expect(dialog).toBeVisible();
+    const close = dialog.getByRole('button', { name: 'Close menu' });
+    await expect(close.locator('svg.lash-icon')).toHaveAttribute('data-open', 'true');
+    await close.click();
+    await expect(dialog).toBeHidden();
+    await expect(trigger.locator('svg.lash-icon')).toHaveAttribute('data-open', 'false');
+  });
+
   test('no horizontal overflow', async ({ page }) => {
     for (const path of ['/', '/organic-spray-tanning', '/nails', '/book', '/visit', '/services']) {
       await page.goto(path);
