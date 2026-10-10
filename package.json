@@ -9,9 +9,13 @@
     "lint": "eslint",
     "typecheck": "next typegen && tsc --noEmit",
     "test:e2e": "playwright test",
-    "images": "node scripts/ingest-images.mjs"
+    "images": "node scripts/ingest-images.mjs",
+    "build:cf": "opennextjs-cloudflare build",
+    "preview:cf": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "deploy:cf": "opennextjs-cloudflare build && opennextjs-cloudflare deploy"
   },
   "dependencies": {
+    "@opennextjs/cloudflare": "^1.20.10",
     "@react-three/drei": "^10.7.9",
     "@react-three/fiber": "^9.8.1",
     "gsap": "^3.15.0",
@@ -32,7 +36,8 @@
     "eslint-config-next": "16.3.8",
     "sharp": "^0.35.5",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "wrangler": "^4.149.0"
   },
   "overrides": {
     "playwright-core": "1.56.1"
