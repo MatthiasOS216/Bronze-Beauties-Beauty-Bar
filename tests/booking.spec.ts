@@ -72,6 +72,18 @@ test.describe('Mobile', () => {
     await expect(trigger.locator('svg.lash-icon')).toHaveAttribute('data-open', 'false');
   });
 
+  test('first-visit hint points at the Lash until the menu has been opened', async ({ page }) => {
+    await page.goto('/');
+    const hint = page.locator('.lash-hint');
+    await expect(hint).toHaveAttribute('data-show', 'true');
+    await expect(hint).toHaveText('Tap the eye for the menu');
+    await page.getByRole('button', { name: 'Open menu' }).click();
+    await expect(hint).toHaveAttribute('data-show', 'false');
+    await page.reload();
+    await page.waitForTimeout(1800);
+    await expect(hint).toHaveAttribute('data-show', 'false');
+  });
+
   test('no horizontal overflow', async ({ page }) => {
     for (const path of ['/', '/organic-spray-tanning', '/nails', '/book', '/visit', '/services']) {
       await page.goto(path);

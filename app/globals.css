@@ -342,6 +342,69 @@
   transition-delay: 0.38s;
 }
 
+.lash-trigger {
+  position: relative;
+}
+/* A soft champagne ring that breathes around the Lash while its first-visit hint is up. */
+.lash-trigger::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: 9999px;
+  border: 1px solid var(--color-champagne);
+  opacity: 0;
+  pointer-events: none;
+}
+.lash-trigger[data-hint='true']::after {
+  animation: lash-halo 1.8s var(--ease-glow) infinite;
+}
+@keyframes lash-halo {
+  0% {
+    opacity: 0.7;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.55);
+  }
+}
+.lash-hint {
+  position: absolute;
+  top: calc(100% + 12px);
+  right: 0;
+  width: max-content;
+  padding: 0.5rem 0.85rem;
+  border-radius: 9999px;
+  background: var(--color-champagne);
+  color: var(--color-ink);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  box-shadow: 0 10px 30px -12px rgb(0 0 0 / 0.6);
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(-6px);
+  transition:
+    opacity 0.45s ease,
+    transform 0.6s var(--ease-glow);
+}
+/* Caret pointing up at the centre of the 44px button. */
+.lash-hint::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  right: 17px;
+  width: 10px;
+  height: 10px;
+  background: inherit;
+  border-radius: 2px;
+  transform: rotate(45deg);
+}
+.lash-hint[data-show='true'] {
+  opacity: 1;
+  transform: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

@@ -7,12 +7,17 @@ import { LashIcon } from './LashIcon';
 
 // How long the eye takes to open (or blink shut) before the menu appears (or leaves).
 const EYE_MS = 380;
+// First-visit hint: appears shortly after load, fades on its own, and never returns once the menu has been opened.
+const HINT_KEY = 'bb-lash-hint-seen';
+const HINT_DELAY_MS = 1200;
+const HINT_SHOW_MS = 7000;
 
 type NavLink = { href: string; label: string };
 
 export function MobileMenu({ nav, services, artists }: { nav: NavLink[]; services: NavLink[]; artists: NavLink[] }) {
   const [open, setOpen] = useState(false);
   const [eyeOpen, setEyeOpen] = useState(false);
+  const [hint, setHint] = useState(false);
   const dialogRef = useRef<HTMLDialogElement>(null);
   const timer = useRef<number | undefined>(undefined);
 
@@ -25,8 +30,26 @@ export function MobileMenu({ nav, services, artists }: { nav: NavLink[]; service
 
   useEffect(() => () => window.clearTimeout(timer.current), []);
 
+  useEffect(() => {
+    try {
+      if (window.localStorage.getItem(HINT_KEY)) return;
+    } catch {
+      // Storage blocked (private mode): still show the hint, just don't remember it.
+    }
+    const show = window.setTimeout(() => setHint(true), HINT_DELAY_MS);
+    const hide = window.setTimeout(() => setHint(false), HINT_DELAY_MS + HINT_SHOW_MS);
+    return () => {
+      window.clearTimeout(show);
+      window.clearTimeout(hide);
+    };
+  }, []);
+
   // Tap: the eye opens, then the menu appears.
   const openMenu = () => {
+    setHint(false);
+    try {
+      window.localStorage.setItem(HINT_KEY, '1');
+    } catch {}
     setEyeOpen(true);
     after(() => setOpen(true));
   };
@@ -51,16 +74,22 @@ export function MobileMenu({ nav, services, artists }: { nav: NavLink[]; service
 
   return (
     <>
-      <button
-        type="button"
-        className="inline-flex size-11 items-center justify-center rounded-full border border-bone/20 text-champagne lg:hidden"
-        aria-label="Open menu"
-        aria-haspopup="dialog"
-        aria-expanded={open}
-        onClick={openMenu}
-      >
-        <LashIcon open={eyeOpen} className="size-8" />
-      </button>
+      <div className="relative lg:hidden">
+        <button
+          type="button"
+          className="lash-trigger inline-flex size-11 items-center justify-center rounded-full border border-bone/20 text-champagne"
+          data-hint={hint ? 'true' : 'false'}
+          aria-label="Open menu"
+          aria-haspopup="dialog"
+          aria-expanded={open}
+          onClick={openMenu}
+        >
+          <LashIcon open={eyeOpen} className="size-8" />
+        </button>
+        <p className="lash-hint" data-show={hint ? 'true' : 'false'} aria-hidden="true">
+          Tap the eye for the menu
+        </p>
+      </div>
 
       <dialog
         ref={dialogRef}
