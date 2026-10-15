@@ -44,3 +44,7 @@ assets-src/
 # testing
 /test-results
 /playwright-report
+
+# cloudflare
+/.open-next/
+/.wrangler/
